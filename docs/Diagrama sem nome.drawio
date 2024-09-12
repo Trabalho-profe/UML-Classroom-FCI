@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-46" value="Resolução de bugs e aperfeiçoamento final&lt;div&gt;de login e banco de dados&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-46" value="Resolução de bugs e aperfeiçoamento das ultimas paginas feitas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZZ5D7f-CGiOrj9U7sB5-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LZZ5D7f-CGiOrj9U7sB5-46">
@@ -154,6 +154,81 @@
             <mxPoint x="290" y="540" as="sourcePoint" />
             <mxPoint x="560" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-51" value="Testes extensivos para bugs, e report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZZ5D7f-CGiOrj9U7sB5-40" target="LZZ5D7f-CGiOrj9U7sB5-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="580" as="sourcePoint" />
+            <mxPoint x="340" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-53" value="Interface para pessoas que trabalham na pizzaria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-54" value="Sistema de gestão de fabricação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-56" value="Pronto para implementação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LZZ5D7f-CGiOrj9U7sB5-53" target="LZZ5D7f-CGiOrj9U7sB5-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="910" as="sourcePoint" />
+            <mxPoint x="340" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-59" value="Revisão de paginas e junção de componentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-60" value="Testes extensivos para bugs, e report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-61" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZZ5D7f-CGiOrj9U7sB5-59" target="LZZ5D7f-CGiOrj9U7sB5-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="910" as="sourcePoint" />
+            <mxPoint x="340" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-62" value="Resolução de bugs e aperfeiçoamento das ultimas paginas feitas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-63" value="Resolução de bugs e aperfeiçoamento das ultimas paginas feitas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LZZ5D7f-CGiOrj9U7sB5-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LZZ5D7f-CGiOrj9U7sB5-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="340" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="960" as="sourcePoint" />
+            <mxPoint x="120" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZZ5D7f-CGiOrj9U7sB5-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1060" as="sourcePoint" />
+            <mxPoint x="470" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZZ5D7f-CGiOrj9U7sB5-68" value="Manutenção" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
