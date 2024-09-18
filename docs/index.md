@@ -43,15 +43,15 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos funcionais**
--Login de usuário
--local para o cliente fazer seu pedido e pagamento
--Gps para encontrar a fabrica mais próxima do pedido
--Gestão interna da fábrica (recebimento de pedidos/fabricação/envio)
+- Login de usuário
+- local para o cliente fazer seu pedido e pagamento
+- Gps para encontrar a fabrica mais próxima do pedido
+- Gestão interna da fábrica (recebimento de pedidos/fabricação/envio)
 
 **Requisitos não funcionais**
--Possibilidade de sustentar alta quantidade de pedidos
--Gps rápido e encontra a melhor rota
--priorização para a maior velocidade possível na gestão da fábrica
+- Possibilidade de sustentar alta quantidade de pedidos
+- Gps rápido e encontra a melhor rota
+- priorização para a maior velocidade possível na gestão da fábrica
 
 # Diagrama de Atividades
 
