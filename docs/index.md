@@ -50,6 +50,7 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 - Gps rápido e encontra a melhor rota
 - priorização para a maior velocidade possível na gestão da fábrica
 
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
