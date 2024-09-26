@@ -57,7 +57,8 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/user-attachments/assets/8793e53b-6eee-403d-ba95-893b78ec6e52)
+
 
 # Descrição dos Casos de Uso
 
