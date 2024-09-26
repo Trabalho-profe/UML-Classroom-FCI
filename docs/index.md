@@ -30,11 +30,8 @@
 * Clovis Julião Arroyo Neto - 10395595
 * Eduardo Berthoux de Oliveira Souza - 10322329
 * Andreas Caycedo Martinez - 10435302
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Guilherme Machado Fabri - 10401221
+
 
 
 # Descrição do Projeto
