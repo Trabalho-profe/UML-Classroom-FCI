@@ -31,6 +31,7 @@
 * Eduardo Berthoux de Oliveira Souza - 10322329
 * Andreas Caycedo Martinez - 10435302
 * Guilherme Machado Fabri - 10401221
+* Luana Fernandes - 10439810
 
 
 
