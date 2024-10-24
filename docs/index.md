@@ -32,6 +32,7 @@
 * Andreas Caycedo Martinez - 10435302
 * Guilherme Machado Fabri - 10401221
 * Luana Fernandes - 10439810
+* Wagner Araujo Marcelino Junior - 10440125
 
 
 
